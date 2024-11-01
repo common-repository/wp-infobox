@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Infobox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-13 23:48+0100\n"
+"PO-Revision-Date: 2010-06-13 23:49+0100\n"
+"Last-Translator: Jonas Nordstrom <jonas.nordstrom@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../wp-infobox.php:57
+msgid "Settings saved."
+msgstr "Inställningarna är sparade."
+
+#: ../wp-infobox.php:64
+msgid "WP-Infobox settings"
+msgstr "WP-Infobox inställningar"
+
+#: ../wp-infobox.php:71
+msgid "Max items"
+msgstr "Max antal"
+
+#: ../wp-infobox.php:75
+msgid "Include css"
+msgstr "Inkludera css"
+
+#: ../wp-infobox.php:81
+msgid "Update options"
+msgstr "Uppdatera inställningar"
+
+#: ../wp-infobox.php:95
+msgid "Info Box"
+msgstr "Faktaruta"
+
+#: ../wp-infobox.php:96
+msgid "Info Box Settings"
+msgstr "Faktaruta inställningar"
+
+#: ../wp-infobox.php:110
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../wp-infobox.php:118
+msgid "Lead:"
+msgstr "Ingress:"
+
+#: ../wp-infobox.php:129
+msgid "Item"
+msgstr "Punkt i listan"
+
+#: ../wp-infobox.php:140
+msgid "Copy:"
+msgstr "Eftertext:"
+
+#: ../wp-infobox.php:149
+msgid "Add an info box to the current post"
+msgstr "Lägg till en faktaruta till inlägget"
+

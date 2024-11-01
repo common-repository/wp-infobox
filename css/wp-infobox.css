@@ -1,0 +1,32 @@
+#wpinfobox {
+	border: 1px solid #aaa;
+	float: right;
+	width: 180px;
+	margin: 0 0 15px 15px;
+}
+#wpinfobox div {
+	padding: 8px;
+	margin: 0;
+}
+#wpinfobox ul {
+	list-style-position: inside;
+	padding: 0;
+	margin: 0;
+}
+#wpinfobox ul li {
+	font-weight: bold;
+	color:#000;
+	font-size:12px;
+	line-height:15px;
+	list-style-type:disc;
+	list-style-position:inside;
+	padding:2px 0 2px 0;
+	background-image: none;
+}
+#wpinfobox h2#wpinfobox-title {
+	background-color: #000;
+	color: #eee;
+	font: 14px arial, helvetica, sans-serif;
+	padding: 8px;
+	margin: 0;
+}
